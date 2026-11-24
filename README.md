@@ -89,7 +89,7 @@ This project requires a Groq API key.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Srinivas s**
 
 AI & Machine Learning Enthusiast
 
